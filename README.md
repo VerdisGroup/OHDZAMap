@@ -1,2 +1,2 @@
 # OHDZ
-AMap A map of HDZ
+A map A map of HDZ
